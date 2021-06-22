@@ -1,5 +1,4 @@
-# EDA
-exploratory data analysis
+# Exploratory Data Analysis Case Studies
 
 # AUTHORS 
 
