@@ -1,6 +1,6 @@
 # Exploratory Data Analysis Case Studies
 
-# AUTHORS 
+## Authors 
 
 Matin Ghaffari - [matin-g](https://github.com/matin-g)
 
